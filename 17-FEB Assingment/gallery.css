@@ -1,0 +1,24 @@
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  
+}
+.space-evenly{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;
+
+ 
+}
+.space-around{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+ 
+}
+
+
+
+
