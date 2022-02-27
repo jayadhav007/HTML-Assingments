@@ -1,0 +1,57 @@
+.navbar {
+  background-color: black;
+  display: flex;
+  list-style: none;
+  padding: 3px;
+  height: 50px;
+  justify-content: center;
+}
+
+.nav {
+  margin: 13px;
+  color: white;
+  padding: 6px;
+  font-size: 18px;
+}
+
+.Dropdown {
+  list-style: none;
+  margin-right: -72px;
+  color: black;
+}
+.courses-dropdown {
+  margin-left: -40px;
+color: black;
+margin-top: 16px;
+height: 12px;
+padding: 2px;
+
+
+}
+
+.dropdown-trigger:hover {
+  color: burlywood;
+  cursor: pointer;
+}
+.dropdown-trigger:hover .courses-dropdown {
+  display: block;
+}
+.dropdown-trigger-2:hover{
+  color: burlywood;
+  cursor: pointer;
+}
+.dropdown-trigger-2:hover .Different-courses-dropdown{
+  display: block;
+  
+}
+.Different-courses-dropdown {
+  margin-left: 44px;
+color: black;
+margin-top: 2px;
+height: 16px;
+padding: 2px;
+display: none;
+}
+.Different-courses-dropdown:hover{
+  color: brown;
+}

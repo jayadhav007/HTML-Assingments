@@ -1,0 +1,57 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+
+.container{
+  text-align: center;
+  display: inline-block;
+ 
+}
+h1{
+  color: red;
+  text-align: center;
+}
+.operator{
+  border-radius: 18px;
+width: 39px;
+height: 39px;
+font-size: 17;
+margin: 4px;
+}
+
+
+.Number{
+  border-radius: 18px;
+width: 39px;
+height: 39px;
+font-size: 17;
+margin: 4px;
+}
+.Number1{
+  border-radius: 18px;
+width: 39px;
+height: 39px;
+font-size: 17;
+margin: 4px;
+}
+.Number2{
+  border-radius: 18px;
+width: 39px;
+height: 39px;
+font-size: 17;
+margin: 4px;
+}
+.NULL{
+  border-radius: 18px;
+width: 39px;
+height: 39px;
+font-size: 17;
+margin: 4px;
+}
+.equal{
+  width: 94px;
+  height: 43px;
+  border-radius: 12px;
+}
+

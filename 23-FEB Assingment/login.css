@@ -1,0 +1,120 @@
+body {
+  text-align: center;
+  background-color: grey;
+}
+
+h2 {
+  position: relative;
+  right: 107px;
+  font-size: 25px;
+}
+
+.login-form {
+  display: inline-block;
+  text-align: center;
+  background-color:white;
+  margin-top: 108px;
+ 
+width: 391px;
+border-radius: 21px;
+}
+#google {
+  height: 13;
+  width: 16;
+  margin-right: 67px;
+  position: relative;
+  left: 65px;
+}
+#log-in-with-google {
+  font-size: 14px;
+  padding: 3px;
+  padding-right: 3px;
+  padding-right: 3px;
+  padding-right: 81px;
+  padding-right: 67px;
+  background-color: white;
+  border-radius: 4px;
+  border-top-color: gray;
+  border-bottom-color: gray;
+  border-right-color: gray;
+  border-left-color: gray;
+}
+#log-in-with-google:hover{
+  background-color: grey;
+}
+
+#email {
+  margin-top: 26px;
+  margin-left: 25px;
+  padding-left: 11px;
+  width: 278px;
+  height: 30px;
+  position: relative;
+  right: ;
+  left: -24px;
+  padding: 12px;
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid gray;
+}
+#password {
+  margin-top: 26px;
+  margin-left: 25px;
+  padding-left: 11px;
+  width: 278px;
+  height: 30px;
+  position: relative;
+  
+  left: -24px;
+  padding: 12px;
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid gray;
+}
+#log-in {
+  margin-top: 27px;
+  padding: 6px;
+  width: 272px;
+  position: relative;
+  left: 20px;
+  height: 37px;
+  background-color: #2196f3;
+  color: white;
+  border: 1px solid #fff;
+}
+#log-in:hover {
+  background-color: blue;
+}
+#remember {
+  margin-top: 12px;
+  position: ;
+  right: ;
+  margin-left: -105px;
+}
+#forgot-pass {
+  position: relative;
+  top: 10px;
+  margin-left: 47px;
+  font-size: 18;
+  text-decoration: none;
+}
+hr {
+  width: 324px;
+  position: relative;
+
+  top: 13px;
+  color: #f5f5f5;
+}
+#no-account {
+  position: relative;
+  top: 14px;
+}
+ul {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+
+  font-size: 20px;
+  margin-right: 22px;
+}
