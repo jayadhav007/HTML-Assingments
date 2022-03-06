@@ -1,0 +1,35 @@
+body{
+  
+  background:url(./undraw_Page_not_found_re_e9o6\(1\).png);
+  background-position: bottom;
+  height: 611px;
+  background-repeat: no-repeat;
+}
+
+.error{
+  text-align: center;
+  font-size: 42px;
+  text-transform: uppercase;
+  color: purple;
+}
+.oops{
+  text-align: center;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+p{
+  text-align: center;
+  text-transform: uppercase;
+  color: #3252a8;
+  font-size: 20px;
+}
+.home{
+  text-align: center;
+position: relative;
+top: 38px;
+font-size: 21px;
+}
+a{
+  text-decoration: none;
+  color: #ba3035;
+}

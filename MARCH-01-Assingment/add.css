@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background-color: gray;
+}
+
+.submit{
+  position: relative;
+  top: 110px;
+}
+.first_number{
+position: relative;
+top: 24px;
+}
+.second_number{
+position: relative;
+top: 67px;
+}

@@ -1,0 +1,175 @@
+body{
+  margin: 0px;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+}
+
+#fifthImage{
+  position: relative;
+top: 77px;
+}
+#sixthImage{
+  position: relative;
+  top: 77px;
+}
+#seventhImage{
+  position: relative;
+  top: 77px;
+}
+#eighthImage{
+  position: relative;
+  top: 77px;
+}
+
+.counter{
+  
+  position: relative;
+  top: 184px;
+  height: 40px;
+  right: 138px;
+  width: 10px;
+}
+#counter{
+height: 18px;
+}
+.container{
+  position: relative;
+top: 225px;
+height: 26px;
+right: 197px;
+ 
+}
+.counter2{
+  position: relative;
+  top: 184px;
+  height: 40px;
+  right: 138px;
+}
+#counter2{
+  height: 18px;
+}
+.container2{
+  position: relative;
+  top: 225px;
+  height: 26px;
+  right: 197px;
+}
+
+
+.counter3{
+  position: relative;
+  top: 184px;
+  height: 40px;
+  right: 138px;
+}
+#counter3{
+  height: 18px;
+}
+.container3{
+  position: relative;
+  top: 225px;
+  height: 26px;
+  right: 197px;
+}
+
+.counter4{
+  position: relative;
+  top: 184px;
+  height: 40px;
+  right: 138px;
+}
+#counter4{
+  height: 18px;
+}
+.container4{
+  position: relative;
+  top: 225px;
+  height: 26px;
+  right: 197px;
+}
+#counter5{
+  height: 18px;
+position: relative;
+bottom: 5px;
+}
+.counter5{
+  position: relative;
+top: 263px;
+height: 39px;
+right: 138px;
+}
+.container5{
+  position: relative;
+  top: 302px;
+  height: 26px;
+  right: 197px;
+}
+#counter6{
+  height: 18px;
+position: relative;
+bottom: 5px;
+}
+.counter6{
+  position: relative;
+top: 263px;
+height: 39px;
+right: 138px;
+}
+.container6{
+  position: relative;
+  top: 302px;
+  height: 26px;
+  right: 197px;
+}
+#counter7{
+  height: 18px;
+  position: relative;
+  bottom: 5px;
+}
+.counter7{
+  position: relative;
+top: 263px;
+height: 39px;
+right: 138px;
+}
+.container7{
+  position: relative;
+  top: 302px;
+  height: 26px;
+  right: 197px;
+}
+#counter8{
+  height: 18px;
+  position: relative;
+  bottom: 5px;
+}
+
+.counter8{
+  position: relative;
+top: 263px;
+height: 39px;
+right: 138px;
+
+}
+.container8{
+  
+  position: relative;
+  top: 302px;
+  height: 26px;
+  right: 197px;
+}
+
+.galleryC1{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.galleryC2{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
